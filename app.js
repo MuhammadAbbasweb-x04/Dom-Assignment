@@ -104,15 +104,44 @@
 
 // Q14
 // Answer
-let head = document.querySelectorAll(".highlight");
-head.style.color = 'red';
+// let head = document.querySelectorAll(".highlight");
+// for(let i = 0; i < head.length;  i++){
+//     head[i].style.color = "orange";
+// }
+
+
+// Q15
+// Answer
+// let inputcheck= document.querySelector("#checkbox");
+// let para = document.querySelector("#para");
+
+// function check(){
+// if ( inputcheck.checked){
+
+// para.innerHTML = "Agreed" ;
+
+// }
+// else{
+//     para.innerHTML=  "Not agreed";
+// }
+
+// }
 
 
 
 
 
 
+// Q16
+// Answer
 
+// let dropdown = document.querySelector("#options");
+// let spn = document.querySelector("#selectedValue");
+// for(let i = 0; i <= spn.length; i++ ){
+// spn.innerHTML = dropdown.value;
+
+
+// }
 
 
 
