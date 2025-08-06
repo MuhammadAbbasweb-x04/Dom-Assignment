@@ -1,30 +1,50 @@
-// Q1
+//  Q1 
 // Answer
-// let p = document.querySelector("#para");
-// p.innerHTML = "Welcome!"
+//  let p = document.querySelector("#para");
+//  p.innerHTML = "Welcome!";
 
-
-// Q2
+//Q2 
 // Answer
-// let input = document.querySelector("#nameinput");
-// let head = document.querySelector("#head");
+// let inputname = document.querySelector("#inputname");
+// let result = document.querySelector("#result");
 
-// function user(){
-// head.innerHTML = input.value;
+// function cl(){
+// result.innerHTML = inputname.value;
+
 // }
 
 
-// Q3
+//Q3 
 // Answer
-// let inputcontainer = document.querySelector("#container");
-
+// let section = document.querySelector("#container");
 // function sec(){
-// inputcontainer.style.backgroundColor = "lightblue";
-
+//      section.style.backgroundColor = "lightblue"
 // }
 
-// Q4
+
+//Q4 
 // Answer
-// let maintitle = document.querySelector("mainTitle")
-// maintitle.innerHTML = "mainTitle";
-// maintitle.style.color = "red";
+// let head= document.querySelector("#mainTitle");
+// head.style.color = "red";
+
+//Q5 
+// Answer
+// let inputnum = document.querySelector("#num1");
+// let p = document.querySelector("#out-put");
+// function number(){
+// p.innerHTML = num1.value
+// }
+
+
+//Q6 
+// Answer
+// let btn = document.querySelector(".submit-btn");
+function sub(){
+console.log("Button Clicked");
+
+}
+
+sub();
+
+
+
