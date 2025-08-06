@@ -86,10 +86,26 @@
 
 // Q12
 // Answer
+// let inputname = document.querySelector("#fullName");
+// let  con = document.querySelector("#greeting");
+
+// function username(){
+// con.innerHTML =  "Hello!" + inputname.value   ;
+// con.style.width = "200px";
+// con.style.height = "200px";
+
+// }
 
 
 
+// Q13
+// Answer
+//  let img = document.querySelector("#profilePic").src = "https://t4.ftcdn.net/jpg/04/31/64/75/360_F_431647519_usrbQ8Z983hTYe8zgA7t1XVc5fEtqcpa.jpg";
 
+// Q14
+// Answer
+let head = document.querySelectorAll(".highlight");
+head.style.color = 'red';
 
 
 
