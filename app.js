@@ -38,13 +38,67 @@
 
 //Q6 
 // Answer
-// let btn = document.querySelector(".submit-btn");
-function sub(){
-console.log("Button Clicked");
+//  function sub(){
+// console.log("Button Clicked");
 
-}
+// }
 
-sub();
+    
+//Q7
+// Answer
+
+// let firstinput = document.querySelector("#first");
+// let secondinput = document.querySelector("#second");
+// let sum = document.querySelector("#sum");
+
+// function num(){
+//  let result = Number(firstinput.value) + Number(secondinput.value);
+//   sum.innerHTML = "Added values: Your answer is " + result;
+// }
+
+//Q8
+// Answer
+// let para = document.querySelector("#description");
+// para.innerHTML = "Updated successfully.";
+
+//Q9
+// Answer
+
+// let box = document.querySelector("#box");
+// box.style.backgroundColor = "green";
+// box.style.width = "200px";
+// box.style.height = "200px";
+
+//Q10
+// Answer
+//  let inputemail =  document.querySelector("#email");
+//  function enter(){
+// console.log(inputemail.value + "@gmail.com");  
+//  }
+
+
+// Q11
+// Answer
+// let p = document.querySelector("#para");
+// p.style.fontSize = "24px";
+
+
+
+// Q12
+// Answer
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
