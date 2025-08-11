@@ -112,11 +112,11 @@
 
 // Q15
 // Answer
-// let inputcheck= document.querySelector("#checkbox");
+// let inputcheck= document.querySelector("#inputcheck");
 // let para = document.querySelector("#para");
 
 // function check(){
-// if ( inputcheck.checked){
+// if (inputcheck.checked){
 
 // para.innerHTML = "Agreed" ;
 
@@ -137,13 +137,55 @@
 
 // let dropdown = document.querySelector("#options");
 // let spn = document.querySelector("#selectedValue");
-// for(let i = 0; i <= spn.length; i++ ){
-// spn.innerHTML = dropdown.value;
-
+// function cite(){
+// spn.innerHTML = options.value
 
 // }
 
 
 
+// Q17
+// Answer
+// let inputdate  = document.querySelector("#inputdate");
+// let  para = document.querySelector("#dateTime");
 
+// function date(){
+//     para.innerHTML = inputdate.value;
+// }
+
+
+
+
+// Q18
+// Answer
+// let para = document.querySelector("#togglePara");
+// para.innerHTML = "Hello Javascript";
+// para.style.display = "none";
+
+
+
+// Q19
+// Answer
+// let age = document.querySelector("#age");
+// let spn = document.querySelector("#spn");
+
+// function btn(){
+// if( Number(age.value) >= 18 && Number(age.value) <= 25){
+// spn.innerHTML= "Eligible" + age.value;
+// }  else{
+//  spn.innerHTML = "Not Eligible";
+// }
+
+// }
+
+
+// Q20
+// Answer
+// let inputsearch = document.querySelector("#searchBox");
+
+// function search(){
+//  inputsearch.value = "";
+
+
+// }
 
